@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="texto_valor1">Valor 1:</string>
+    <string name="texto_valor2">Valor 2:</string>
+    <string name="buttonSoma">+</string>
+    <string name="buttonSub">-</string>
+    <string name="ButtonMult">*</string>
+    <string name="ButtonDiv">/</string>
+    <string name="texto_result">O Resultado é:</string>
+</resources>
